@@ -1,0 +1,101 @@
+id,name,city,cuisine,rating,rating_count,cost,rating_num,cost_num,rating_count_num
+517509,Biryani Bollywood Spice,"Powai,Mumbai","Biryani,North Indian",--,Too Few Ratings,₹ 300,,300,
+534997,JANTA TEA COMPANY,"South Tukoganj,Indore",Beverages,--,Too Few Ratings,₹ 200,,200,
+470765,Chaat Bhaat By YummyEats,"Koramangala,Bangalore","Chaat,Chinese",--,Too Few Ratings,₹ 300,,300,
+231946,Vegan kitchen,"Central Bangalore,Bangalore","Continental,Italian",--,Too Few Ratings,₹ 600,,600,
+141318,Ekvira Restaurant,Yavatmal,"North Indian,Fast Food",3.8,100+ ratings,₹ 200,3.8,200,100
+545296,Chulha India (Swad Ghar Jaisa),Agra,"North Indian,Indian",--,Too Few Ratings,₹ 100,,100,
+562919,Mr.Jack,"Virar,Mumbai","Chinese,Indian",--,Too Few Ratings,₹ 350,,350,
+542612,HOTEL ATHITHYA,"Aundh,Pune","Indian,Chinese",--,Too Few Ratings,₹ 300,,300,
+556002,Spice Vault Restaurant,Nandyal,"Indian,Biryani",--,Too Few Ratings,₹ 199,,199,
+505693,The Good Food Restaurant,"Kammanahalli/Kalyan Nagar,Bangalore","Biryani,Indian",3.9,100+ ratings,₹ 500,3.9,500,100
+346431,BABA G'S MOMOS,"Warje,Pune","Fast Food,Indian",--,Too Few Ratings,₹ 400,,400,
+561251,Baskin Robbins Happyness Shakes,Kurnool,"Ice Cream,Desserts",--,Too Few Ratings,₹ 200,,200,
+141217,Only Bowl,"Chattarpur,Delhi","North Indian,Chinese",--,Too Few Ratings,₹ 300,,300,
+192401,McCafe by McDonald's,"Paldi & Ambawadi,Ahmedabad","American,Beverages",--,Too Few Ratings,₹ 250,,250,
+13492,Bengali fun Foods,"OMR Perungudi,Chennai",Bengali,4.6,500+ ratings,₹ 250,4.6,250,500
+474044,Toastry The Sandwich Spot,"Hinjewadi,Pune","Fast Food,Burgers",--,Too Few Ratings,₹ 200,,200,
+406670,Hotel Ranmala,"Baner,Pune",Tandoor,--,Too Few Ratings,₹ 300,,300,
+319394,A1 CHIPS KILPAUK,"Kilpauk,Chennai","Snacks,Sweets",4.2,20+ ratings,₹ 200,4.2,200,20
+549234,AREA 51 CAFE,"Zirakpur,Chandigarh","Fast Food,Snacks",--,Too Few Ratings,₹ 299,,299,
+353420,Geeta Tiffin Service,Valsad,Indian,--,Too Few Ratings,₹ 200,,200,
+186492,CHEESY FRANKEE ROLLS,"Bandra West,Mumbai","South Indian,Chinese",--,Too Few Ratings,₹ 300,,300,
+453437,Cuisina - Continental Grill,"Lajpat Nagar,Delhi","Italian,Fast Food",--,Too Few Ratings,₹ 800,,800,
+550728,CHASKA CHINESE RESTAURANT,"Bibwewadi,Pune",Chinese,--,Too Few Ratings,₹ 280,,280,
+131007,Hotel Avani Biryani,"Hadapsar,Pune","North Indian,Chinese",3.7,20+ ratings,₹ 350,3.7,350,20
+149848,Dangee Dums,"Ghatlodia,Ahmedabad","Desserts,Bakery",--,Too Few Ratings,₹ 400,,400,
+325764,KAKE DA HOTEL,"Powai,Mumbai",Indian,3.8,50+ ratings,₹ 600,3.8,600,50
+461894,Hosamane by Curryosity,"JP Nagar,Bangalore","Indian,Andhra",4.0,100+ ratings,₹ 250,4.0,250,100
+254295,KAILASH FAMILY RESTAURANTS,"Indirapuram,Delhi","Indian,North Indian",4.4,50+ ratings,₹ 150,4.4,150,50
+486655,ZAYKA COOKING CLASSES,Rourkela,Bakery,--,Too Few Ratings,₹ 200,,200,
+127688,Family Choice Restaurant,Aligarh,"Mughlai,Tandoor",3.3,500+ ratings,₹ 200,3.3,200,500
+404847,Guru's Adupadi,"Sai Baba Colony,Coimbatore","South Indian,Chinese",4.3,100+ ratings,₹ 150,4.3,150,100
+81178,Tomato'S,Gondal,"North Indian,Italian-American",--,Too Few Ratings,₹ 450,,450,
+70094,Tuba,"Benz Circle and Auto Nagar,Vijayawada","Chinese,Indian",3.6,50+ ratings,₹ 800,3.6,800,50
+365242,Hotel Nishant Inn,Ambikapur,North Indian,--,Too Few Ratings,₹ 150,,150,
+494737,Saraswati Namkeen and Cookies,Bharabanki,"Bakery,Pizzas",--,Too Few Ratings,₹ 300,,300,
+330458,The Caffeine Baar,"JP Nagar,Bangalore","Beverages,Bakery",4.2,50+ ratings,₹ 300,4.2,300,50
+465735,MADRAS CAFE,"Laxmi Nagar,Delhi","South Indian,Chinese",3.4,20+ ratings,₹ 200,3.4,200,20
+444550,SHREE JEE RESTAURANT & CATERERS,Faridabad,"Indian,Chinese",--,Too Few Ratings,₹ 300,,300,
+255572,Food mood,Bikaner,"Indian,Chinese",3.8,100+ ratings,₹ 300,3.8,300,100
+453652,NutrioBox,"Dwarka,Delhi","Healthy Food,Continental",4.2,100+ ratings,₹ 350,4.2,350,100
+483324,CAKE GALLERY,"South Mohali,Chandigarh","Bakery,Desserts",--,Too Few Ratings,₹ 300,,300,
+418018,Swaad Di Hatti,"Howrah,Kolkata",North Indian,--,Too Few Ratings,₹ 250,,250,
+158770,Hotel Anand Castle,Kashipur,"North Indian,Chinese",--,Too Few Ratings,₹ 350,,350,
+58542,Cookie Man,"Viman Nagar,Pune","Desserts,Ice Cream",4.2,20+ ratings,₹ 140,4.2,140,20
+498442,Desi Express,"Ruby Area,Kolkata","Tandoor,Indian",--,Too Few Ratings,₹ 400,,400,
+532016,Hotel maruthi Inn,Nirmal,"North Indian,Chinese",--,Too Few Ratings,₹ 250,,250,
+78347,The Monarch,"Indirapuram,Delhi","Chinese,North Indian",--,Too Few Ratings,₹ 1200,,1200,
+372499,BIRD VALLEY,"Sinhgad Road,Pune","North Indian,Continental",4.5,20+ ratings,₹ 300,4.5,300,20
+443350,Dear Maggi,"ECR-Kottivakkam,Chennai","Chinese,Street Food",--,Too Few Ratings,₹ 250,,250,
+389703,99 Royal China,"Powai,Mumbai","Chinese,North Indian",4.6,20+ ratings,₹ 500,4.6,500,20
+434264,PIZZA MADNESS,"Koramangala,Bangalore","Pizzas,Continental",2.4,20+ ratings,₹ 200,2.4,200,20
+539315,Banarshi Kulfi Faluda BhanDar,Mughalsarai,Bakery,--,Too Few Ratings,₹ 150,,150,
+12747,Cabanas Kebab and Kurrys,"Kirti Nagar,Delhi","Mughlai,North Indian",4.2,20+ ratings,₹ 400,4.2,400,20
+417776,VASISHTA BIRYANIS,"Madhapur,Hyderabad","Biryani,Combo",--,Too Few Ratings,₹ 400,,400,
+474415,J J Briyani and Parotta Stall,Thanjavur,"Biryani,South Indian",--,Too Few Ratings,₹ 200,,200,
+203977,Apna Indian Pizza,Bareilly,"Desserts,Pizzas",--,Too Few Ratings,₹ 200,,200,
+497173,National Highway Dhaba,Ratlam,"North Indian,Snacks",--,Too Few Ratings,₹ 249,,249,
+502695,Shavarmaji,Kottayam,"Pizzas,Italian",--,Too Few Ratings,₹ 200,,200,
+238661,New Shetty Fish Land,Sirsi,"Biryani,North Indian",4.2,50+ ratings,₹ 400,4.2,400,50
+143671,Ruchira Restaurant Veg And Non Veg,Belgaum,"North Indian,Chinese",--,Too Few Ratings,₹ 240,,240,
+529609,GO GREEN BAKERY,Varanasi,Bakery,--,Too Few Ratings,₹ 200,,200,
+483783,FASTA PIZZA,"Mogappair,Chennai","Pizzas,Fast Food",--,Too Few Ratings,₹ 400,,400,
+408846,Laasya Mess,"Mysore North,Mysore",Indian,--,Too Few Ratings,₹ 300,,300,
+415206,Aahar Restaurant & Caterer,"Salt Lake,Kolkata","North Indian,Snacks",--,Too Few Ratings,₹ 300,,300,
+408679,Chinese Food Court,"Wakad,Pune",Chinese,--,Too Few Ratings,₹ 200,,200,
+262482,PIZZA DELIGHT,Silchar,Pizzas,3.3,20+ ratings,₹ 200,3.3,200,20
+12071,Aggarwal Sweet Corner & Restaurant,"Greater Kailash 2,Delhi","North Indian,Desserts",4.1,500+ ratings,₹ 300,4.1,300,500
+458838,GULLY GANG,"Howrah,Kolkata","Seafood,Chinese",--,Too Few Ratings,₹ 200,,200,
+377814,HOTEL HANUMANTHU ORIGINAL 1930,"Mysore South,Mysore",North Indian,4.0,100+ ratings,₹ 400,4.0,400,100
+400663,Ohh My Fudge,"Bandra West,Mumbai","Desserts,Ice Cream",--,Too Few Ratings,₹ 100,,100,
+57191,The Kim Chi Chef,"Kadugodi,Bangalore","Thai,Chinese",4.5,20+ ratings,₹ 400,4.5,400,20
+405921,Hotel Gokul,Gandhidham,"Indian,Chinese",--,Too Few Ratings,₹ 400,,400,
+292009,Tasty Thalis,"Viman Nagar,Pune","Thalis,North Indian",2.9,100+ ratings,₹ 200,2.9,200,100
+119366,Nath Fast Food,Muzaffarpur,"North Indian,Chinese",3.8,20+ ratings,₹ 200,3.8,200,20
+471856,Nagri Puneri Tadka,"Vashi,Mumbai","North Indian,Indian",--,Too Few Ratings,₹ 350,,350,
+524283,Waffles And Milkshakes,"Chrompet,Chennai",Waffle,--,Too Few Ratings,₹ 300,,300,
+420001,HOTEL MANGALAM & BAKERS,Krishnagiri,"North Indian,South Indian",4.2,100+ ratings,₹ 250,4.2,250,100
+194870,Harbhule Kachi Dabali and Cafe,Karad,Desserts,--,Too Few Ratings,₹ 150,,150,
+323040,RAM'S TEA HOUSE,"Annanagar,Chennai",Beverages,4.6,50+ ratings,₹ 100,4.6,100,50
+553338,Biryani Bite,"Electronic City,Bangalore","Biryani,Indian",4.1,20+ ratings,₹ 200,4.1,200,20
+248753,London Bubble Co.,Udaipur,"Beverages,Desserts",4.0,20+ ratings,₹ 150,4.0,150,20
+547653,K-Dum Biryani,Parbhani,"Biryani,Kebabs",--,Too Few Ratings,₹ 250,,250,
+517496,Laidback Maker,"Greater Mohali,Chandigarh","Chinese,Snacks",--,Too Few Ratings,₹ 300,,300,
+441490,The Golden Crust,Jodhpur,Bakery,--,Too Few Ratings,₹ 1000,,1000,
+505694,Anand Bakery,Belgaum,Bakery,--,Too Few Ratings,₹ 100,,100,
+159379,Steamed & Fried,Bikaner,"Chinese,Thai",4.0,500+ ratings,₹ 200,4.0,200,500
+431767,Geetanjali Sweets,Kendujhar,Sweets,--,Too Few Ratings,₹ 200,,200,
+486673,Bamboo The Restaurant,Bardoli,"Chinese,Gujarati",--,Too Few Ratings,₹ 400,,400,
+349457,Payal Chat,Udaipur,Chaat,4.1,20+ ratings,₹ 150,4.1,150,20
+174685,Juneja Hotel (Chuna Fatak),Hanumangarh,North Indian,4.1,50+ ratings,₹ 150,4.1,150,50
+551546,AKCHRA CHAAT BHANDAR,"Raj Nagar,Noida","Chaat,North Indian",--,Too Few Ratings,₹ 300,,300,
+339976,Baccara Express,"Central Kolkata,Kolkata","Beverages,Fast Food",--,Too Few Ratings,₹ 200,,200,
+224069,The Biryani Life,"Rajouri Garden,Delhi","Biryani,Hyderabadi",3.7,20+ ratings,₹ 250,3.7,250,20
+402080,ahuja's punjabi delux dhaba,"Indirapuram,Delhi","Chinese,North Indian",--,Too Few Ratings,₹ 400,,400,
+563850,The Tawah,"Piplod,Surat","North Indian,Indian",--,Too Few Ratings,₹ 250,,250,
+468191,Philippino burger point,"Bhayandar,Mumbai","American,Pastas",--,Too Few Ratings,₹ 500,,500,
+246698,PUNJABI SWAAD,"Kirti Nagar,Delhi","Tandoor,Chinese",3.8,100+ ratings,₹ 250,3.8,250,100
+446527,MY CAVINS,"Mogappair,Chennai","Bakery,Desserts",--,Too Few Ratings,₹ 300,,300,
+500051,Burger Connection,"Greater Kailash 2,Delhi","American,Fast Food",--,Too Few Ratings,₹ 200,,200,
+572412,Delhi Chicken Company,"Rajouri Garden,Delhi","North Indian,Snacks",5.0,20+ ratings,₹ 250,5.0,250,20
